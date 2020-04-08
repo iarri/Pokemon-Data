@@ -1,4 +1,4 @@
-,NationalNo,Name,Type,Type_1,Type_2,HP,Attack,Defense,Sp.Atk,Sp.Def,Speed,Total,Average
+,NationalNo,Name,Type,Type_1,Type_2,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Total,Stat_Avg
 0,001,Bulbasaur,"[Grass, Poison]",Grass,Poison,45,49,49,65,65,45,318,53
 1,002,Ivysaur,"[Grass, Poison]",Grass,Poison,60,62,63,80,80,60,405,67
 2,003,Venusaur,"[Grass, Poison]",Grass,Poison,80,82,83,100,100,80,525,87
